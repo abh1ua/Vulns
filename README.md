@@ -1,6 +1,4 @@
 # BurpSuiteCertifiedPractitioner
-Ultimate Burp Suite Exam and PortSwigger Labs Guide.  
-In other words BSCP without mOrasmus.  
 
 ## Strategy
 The exam consists of two web applications, two hours each. Each application has three stages:
